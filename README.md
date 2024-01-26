@@ -1,7 +1,6 @@
-### Hi there 👋
+### Привет 👋
 
-<!--
-**iuliiagalich/iuliiagalich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Юлия, я аналитик данных и буду рада принести пользу вашему проекту
 
 Here are some ideas to get you started:
 
