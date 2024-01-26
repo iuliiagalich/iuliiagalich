@@ -17,4 +17,4 @@
 
 - telegram: [t.me/@iuliia_galich](https://t.me/+79643908939)
 
-- :mailbox: email: iuliiagalich@gmail.com
+- 💬: email: iuliiagalich@gmail.com
