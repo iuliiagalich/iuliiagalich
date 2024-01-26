@@ -12,6 +12,7 @@
 
 
 **Для связи со мной:**
+
 💬 telegram: [t.me/@iuliia_galich](https://t.me/+79643908939)
 
 💬 email: iuliiagalich@gmail.com
