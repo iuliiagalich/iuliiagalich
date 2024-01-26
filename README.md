@@ -23,6 +23,6 @@
 
 
   
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'> telegram: t.me/@iuliia_galich
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'> telegram: [t.me/@iuliia_galich](https://t.me/+79643908939)
 
 - :mailbox: email: iuliiagalich@gmail.com
