@@ -20,7 +20,7 @@
 ## Навигация
 
 * [**ABC-анализ**](https://github.com/semen997/portfolio/tree/master/ABC-анализ)
-* [**RFM-анализ**](https://github.com/semen997/portfolio/tree/master/RFM-анализ)
+* [**RFM-анализ**](https://github.com/semen997/portfolio/tree/master/RFM-анализ](https://github.com/iuliiagalich/RFM-analysis)
 * [**Когортный анализ retention**](https://github.com/semen997/portfolio/tree/master/Когортный%20анализ%20retention)
 * [**Галерея дашбордов**](https://github.com/semen997/portfolio/tree/master/Галерея%20дашбордов)
 * [**ETL в трейдинге**](https://github.com/semen997/portfolio/tree/master/ETL%20в%20трейдинге)
